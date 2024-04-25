@@ -34,7 +34,7 @@
 <img src='https://i.imgur.com/oQRRXD8.jpeg' width='100'>
 
 - Setelah selesai setting jumlah akun dalam app instal v10.10.1.0 untuk base update.
-<img src='https://i.imgur.com/0sLAqlL.jpeg' width='125'>
+<img src='https://i.imgur.com/0sLAqlL.jpeg' width='200'>
 
 - ⛔Pindahan  dari app lama⛔
 - Pindahkan semua akun dari app lama ke versi baru ini sampai selesai. Jangan LOGOUT akun dari app lama sampai terpindah semuanya.
