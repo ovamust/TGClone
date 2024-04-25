@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### TGClone adalah aplikasi clone dari PlusMesengger untuk membantu para pencari Crypto di telegram
+### TGClone adalah aplikasi cloning dari PlusMesengger untuk pencari Crypto di telegram
 
 
 ## ✨ Fitur
@@ -25,9 +25,12 @@
 
 ## 📜 Cara Instal Part 2
 
-- Instal v10.0.1.0 dahulu. Login Satu akun. setelah login klik dan tahan [tambah akun] sampai muncul popup berapa jumlah akun yang akan anda pakai di dalam aplikasi
+- Instal v10.0.1.0 dahulu. Login Satu akun. setelah login klik dan tahan [tambah akun / add account] sampai muncul popup berapa jumlah akun yang akan anda pakai di dalam aplikasi
 <img src='https://i.imgur.com/KrhWaYX.jpeg' width='100'>
 <img src='https://i.imgur.com/oQRRXD8.jpeg' width='100'>
 
+- Setelah selesai setting jumlah akun dalam app instal v10.10.1.0 untuk base update.
 
--
+- ⛔Pindahan  dari app lama⛔
+- Pindahkan semua akun dari app lama ke versi baru ini sampai selesai. Jangan LOGOUT akun dari app lama sampai terpindah semuanya.
+- Jika anda Logout dari app lama sebelum terpindah semua. bisa mengakibatkan akun terlogout semua.
