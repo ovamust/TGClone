@@ -1,6 +1,9 @@
 <p align="center">
     <img src="https://github.com/AyuGram/AyuGramDesktop/blob/dev/.github/AyuGram.png" width="150">
 </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ovamust&style=flat-square&color=blue" alt=""/>    
+</div>
 
 <h1 align="center">TGClone</h1>
 
