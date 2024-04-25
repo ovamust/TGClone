@@ -6,36 +6,29 @@
 
 <div align="center">
 
-### TGClone adalah aplikasi clone dari aplikasi PlusMesengger untuk membantu para pencari Crypto di telegram
-
-## 📷 Tangkapan Layar
-
-![Tangkapan Layar](screenshots/extension.png?raw=true)
+### TGClone adalah aplikasi clone dari PlusMesengger untuk membantu para pencari Crypto di telegram
 
 
 ## ✨ Fitur
 
-- 🤖 SPECIAL FITUR 100 akun dalam 1 aplikasi Normalnya hanya 10 akun di aplikasi resminya 
+- 🤖 SPECIAL FITUR 100 akun dalam 1 aplikasi Normalnya hanya 10 akun di aplikasi resminya
 - 💬 Memblokir pengumpulan analitik, secara menyeluruh
 - 🚀 Pengoptimalan grafis yang mendalam, duplikat dihapus
 - 🔍 Iklan bersponsor yang dihapus
 - 🎨 Saluran sponsor tersembunyi dari proxy
 Saat klien memulai, layar akan dicat hitam [aslinya - putih cerah]
-- 📚 Modifikasi "tidak terikat" dari Layanan Google [Saya tidak dapat menjamin efisiensi dalam 100%]
-- 🔗 Fungsionalitas webpack disertakan
-Bahasa: en, ru, uk, ar, de, fa, pt, es, be, uz
-Tanda tangan diubah
-- 🌙 Mode gelap
+
 
 ## 🔧 Cara Instal
 
-- Unduh file apk dari [Release](https://github.com/chathub-dev/chathub/releases)
+- Unduh file apk dari [Release](https://github.com/ovamust/TGClone/releases/tag/TGClonearmeabi-v7a)
 - Buka file apk yang telah Anda download sebelumnya dengan file manager / dari unduhan browser
 - Lalu klik file apk dan klik tombol Instal di popup yang muncul.
 - Kemudian izinkan instalasi dari aplikasi yang tidak diketahui dengan cara klik tombol ON atau ceklis pada Unknown sources.
 
-## 📜 Changelog
+## 📜 Cara Instal Part 2
 
-### v10.10.1.0
+- Instal v10.0.1.0 dahulu. Login Satu akun. setelah login klik dan tahan [tambah akun] sampai muncul popup berapa jumlah akun yang akan anda pakai di dalam aplikasi
 
-- Perbaikan bug dan perbaikan kecil.
+
+-
